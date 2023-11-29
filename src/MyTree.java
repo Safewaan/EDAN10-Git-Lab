@@ -19,6 +19,8 @@ public class MyTree {
 
   /**
    * Return a reference to the root in this tree.
+   * 
+   * hejhej
    *
    * @return Reference to the root node.
    */
