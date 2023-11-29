@@ -3,6 +3,7 @@ package tree;
 import tree.MyNode;
 
 // thet's so fetch!
+// master branch is the best!
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
