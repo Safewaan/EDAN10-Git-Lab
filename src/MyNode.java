@@ -6,6 +6,8 @@ package tree;
  * @author Torbjorn Ekman
  * @see MyTree
  */
+
+ //funkar detta ? 
 public class MyNode {
   private MyNode father;
   private MyNode left;
