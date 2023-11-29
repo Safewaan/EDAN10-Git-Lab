@@ -11,6 +11,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
+  // elin was here
 
   /**
    * Class constructor initializing this node's value.
@@ -20,6 +21,7 @@ public class MyNode {
   public MyNode(int value) {
     this.value = value;
   }
+  // here is emilia
 
   /**
    * Gets the value of this node.
