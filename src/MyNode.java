@@ -12,7 +12,7 @@ public class MyNode {
   private MyNode right;
   private int value;
   // elin was here
-  // fuck u elin
+  // fuck u elin & bella 
   
 
   /**
