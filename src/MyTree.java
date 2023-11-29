@@ -4,6 +4,7 @@ import tree.MyNode;
 
 // thet's so fetch!
 // new branch lets see
+// hej branchen 
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
