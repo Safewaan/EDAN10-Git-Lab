@@ -23,7 +23,7 @@ public class MyNode {
   public MyNode(int value) {
     this.value = value;
   }
-  // here is emilia
+  // here is emilia, emilia is top G
   // test 2
 
   /**
