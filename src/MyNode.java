@@ -28,6 +28,7 @@ public class MyNode {
   // here is emilia, emilia is top G
   // test 2
 
+  //får jag ?
   /**
    * Gets the value of this node.
    *
