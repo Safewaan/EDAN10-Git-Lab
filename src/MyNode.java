@@ -7,6 +7,8 @@ package tree;
  * @see MyTree
  */
 
+ //testar om det går att ändra i två olia filer
+
  //funkar detta ? 
 public class MyNode {
   private MyNode father;
