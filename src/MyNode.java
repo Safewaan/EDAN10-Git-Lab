@@ -1,5 +1,5 @@
 package tree;
-
+//hej hör kommer en kommentar
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  * Hej test
