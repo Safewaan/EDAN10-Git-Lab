@@ -6,7 +6,7 @@ import tree.MyNode;
 // master branch is the best!
 // new branch lets see
 // hej branchen 
-
+// trying partial commit 
 
 // wtf?
 /**
