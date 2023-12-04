@@ -15,6 +15,7 @@ public class MyNode {
   private int value;
   // elin was here
   // fuck u elin & bella 
+  // happy new year
   
 
   /**
